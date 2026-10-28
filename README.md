@@ -1,4 +1,4 @@
-# 🛠️ Data Engineering Project — Simulated Analytical Database
+# 🛠️ Data Engineering Project - Simulated Analytical Database
 
 This repository showcases practical projects and studies in data engineering, including ETL pipelines, data modeling, system integration, and data visualization. It simulates a complete data engineering pipeline focused on ingesting, transforming, and analyzing customer, product, sales, and employee data. The project is ideal for testing ETL workflows, analytical modeling, and building dashboards using tools like Power BI, dbt, or Python.
 
